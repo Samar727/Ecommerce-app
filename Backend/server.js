@@ -32,5 +32,3 @@ app.get('/',(req,res)=>{
 app.listen(port,()=> console.log('server started on PORT: http://localhost:' + port))
 
 
-// qeazHtEJ0mEmGo2i
-//mongodb+srv://samarsaini727:<db_password>@cluster0.xazlx.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
